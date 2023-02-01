@@ -3,4 +3,4 @@ This repository contains materials in seminar (online/on-side) at Department of 
 
 ## Presentation 
 
-A static presenataion in pdf can ne found here. 
+Please find a dynamic slides on [https://oporkabbb.shinyapps.io/slides](https://oporkabbb.shinyapps.io/slides)
